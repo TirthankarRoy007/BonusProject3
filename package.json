@@ -1,0 +1,25 @@
+{
+  "name": "bonusproject3",
+  "version": "1.0.0",
+  "description": "Real Time Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TirthankarRoy007/BonusProject3.git"
+  },
+  "author": "Tirthankar Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TirthankarRoy007/BonusProject3/issues"
+  },
+  "homepage": "https://github.com/TirthankarRoy007/BonusProject3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
